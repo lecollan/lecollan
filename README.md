@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lecollan
+- 👀 I’m interested in artificial intelligence and big data. 
+- 🌱 I’m currently improviming my skill on programing and advance methods for AI.
+- 💞️ I’m looking to collaborate on with other data scientist collages and improve many businesses!!
+- 📫 My personal email rrss@lecollan.es, any question just type me! Feel free!
